@@ -1,0 +1,43 @@
+.h{
+    font-size: 50px;
+    color: darkmagenta;
+    text-align: center;
+}
+.g{
+    font-size: 40px;
+    color: darkblue;
+
+}
+.i{
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    word-spacing: 25px;
+}
+.j{
+    font-size:40px ;
+    font: bold;
+    text-align: center;
+    color:blue;
+}
+.k{
+    font-size: 20px;
+    font: bold;
+    text-align: center;
+    color: indigo;
+}
+.l{
+    font-size: 40px;
+    word-spacing: 30px;
+    text-align: center;
+    color: orangered;
+}
+.m{
+    font-size:40px ;
+    word-spacing: 30px;
+    text-align: center;
+    color: darkgreen;
+}
+.p{
+    text-align: center;
+}
